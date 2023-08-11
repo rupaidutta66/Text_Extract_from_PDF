@@ -27,11 +27,13 @@ Flexible Output Formats: Extracted data can be saved in a variety of structured 
 - Outputs the extracted data in a structured format (e.g., CSV, Excel, JSON).
 
 ## Configuration
-The config.json file allows you to customize various extraction parameters, including:
 
+The config.json file allows you to customize various extraction parameters, including:
 Selection of primary OCR engine (PaddleOCR, Tesseract OCR, NanoNet OCR).
 Image preprocessing settings (resizing, enhancement, etc.).
 Table detection and extraction preferences.
 Output format selection (CSV, Excel, JSON).
-Acknowledgments
+
+## Acknowledgments
+
 This application is built upon a stack of powerful libraries and tools, including PaddleOCR, Tesseract OCR, NanoNet OCR, pdf2image, OpenCV, and Poppler Utils. Each of these components contributes to the application's ability to accurately extract text data from complex PDF documents.
