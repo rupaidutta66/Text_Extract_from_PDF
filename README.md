@@ -8,7 +8,7 @@ This Python application allows you to extract text data from a collection of PDF
 
 This Python application is a powerful tool designed to extract structured text data from a diverse range of PDF files, even those containing complex table data forms. Leveraging a combination of cutting-edge libraries and tools such as PaddleOCR, Tesseract OCR, NanoNet OCR, pdf2image, OpenCV, and Poppler Utils, this application ensures accurate and efficient extraction of valuable information from PDF documents.
 
-## Features
+## Overview
 
 Robust OCR Integration: The application seamlessly integrates multiple OCR engines, including PaddleOCR, Tesseract OCR, and NanoNet OCR, to ensure accurate text recognition across a wide range of document layouts and languages.
 
